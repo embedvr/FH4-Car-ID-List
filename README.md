@@ -1,3 +1,6 @@
+# THIS REPO IS NO LONGER MAINTAINED
+This repository was made to open source the Forza Mods list, since their list was not downloadable in any capacity at the time. I am no longer able to update this list as I don't have gamepass any more and am not actively using Windows. If you would like to take over this repo, please let me know by emailing me at brydon@helium.email.
+---
 # FH4-Car-ID-List
 An open source Forza Horizon 4 Car ID list. Found in CSV, JSON, and XML format.
 
